@@ -20,7 +20,7 @@ YDIN mission is to focus on the Partners, so the agreement should follow that as
 
 But YDIN is also a company and if the business is not viable it will not be able to provide the services for the Partners.
 
-## 3. Legally "enough good"
+## 4. Legally "enough good"
 
 The first versions will not be proofread by lawyers and will be updated on a need basis, both content and wordings.
 
