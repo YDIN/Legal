@@ -30,7 +30,11 @@ However, the target is to be in "a good enough" level, and involve lawyers bit l
 
 ## Signing
 
-All document signing electronic: Email signatures in the beginning, moving later to [DocuSign](https://www.docusign.com/).
+All document signing electronic, paper copies only if absolutely needed:
+
+- Email approvals
+- Accept Terms of Services online
+- [DocuSign](https://www.docusign.com/)
 
 ---
 
