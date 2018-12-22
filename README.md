@@ -16,9 +16,7 @@ Use human language without legal jargon. A normal person should understand what 
 
 ## 3. Fair for all parties
 
-YDIN mission is to focus on the Partners, so the agreement should follow that as a guideline. In practice, a good paper to put a name on.
-
-But YDIN is also a company and if the business is not viable it will not be able to provide the services for the Partners.
+YDIN's business in dependent on the success of all the parties and the legal framework should support that. In practice, provide enablers for fair win-win-win deals.
 
 ## 4. Legally "enough good"
 
@@ -35,13 +33,3 @@ All document signing electronic, paper copies only if absolutely needed:
 - Email approvals
 - Accept Terms of Services online
 - [DocuSign](https://www.docusign.com/)
-
----
-
-## Templates
-
-### YDIN Partner Agreement (Talent - YDIN)
-
-### YDIN Terms of Services for Companies (Client - YDIN)
-
-### Project Contract (Client - YDIN)
