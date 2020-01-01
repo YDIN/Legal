@@ -1,6 +1,6 @@
 # YDIN TERMS OF SERVICES FOR CLIENT COMPANIES
 
-** Last revised: August 10th, 2019.**
+**Last revised: August 10th, 2019.**
 
 These Terms of Services ("Agreement") are an agreement between the business entity you represent ("Client", "you", or "your"), and YDIN Private Limited, a company incorporated in Singapore (Registration No. 201628091W), with registered office at #02-01, 68 Circular Road, 049422 SINGAPORE ("YDIN", "we", "us", "our"), (together the "Parties" or individually a "Party").
 
